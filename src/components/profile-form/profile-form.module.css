@@ -1,0 +1,9 @@
+.form {
+  width: 500px;
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.wrapper {
+  margin-top: 50px;
+}
